@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="83" viewBox="0 0 88 83">
+  <defs>
+    <clipPath id="clip-de-logo">
+      <rect width="88" height="83"/>
+    </clipPath>
+  </defs>
+  <g id="de-logo" clip-path="url(#clip-de-logo)">
+    <g id="Group_1" data-name="Group 1" transform="translate(-41 -9)">
+      <text id="D" transform="translate(36 87)" font-size="101" font-family="TrebuchetMS-Bold, Trebuchet MS" font-weight="700"><tspan x="0" y="0">D</tspan></text>
+      <path id="Path_1" data-name="Path 1" d="M-20.054,0H36V13.476H2.791S1.142,9.488-3.958,5.013-20.054,0-20.054,0Z" transform="translate(90 13.524)"/>
+      <path id="Path_2" data-name="Path 2" d="M-20.126,13.151,36,12.453V0H2.791S1.142,3.686-3.958,7.82-20.126,13.151-20.126,13.151Z" transform="translate(90 74)"/>
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="22" height="12" transform="translate(99 45)"/>
+    </g>
+  </g>
+</svg>
